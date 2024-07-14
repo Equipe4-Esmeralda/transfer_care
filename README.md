@@ -19,7 +19,7 @@ Para a realização deste trabalho, você deverá propor: um website ou um aplic
 - [Cenários e Casos de Uso](https://github.com/Equipe4-Esmeralda/transfer_care/blob/main/Casos%20de%20Uso.md)(1,0 ponto)
 - [Protótipo (paper prototype, esboços (sketches), wireframes, modelos no Figma, Draw.io, etc)](https://www.figma.com/proto/iLAaL7J34Yqzx4FQtpZKIK/App?t=Ifws8mBmtMnbIGJx-1): a prototipação poderá começar com a produção de um protótipo de baixa fidelidade (wireframe) para validação inicial, depois ir evoluindo para um protótipo de alta fidelidade. (5,0 pontos).
 - Descrição do objeto de interação com imagens, screenshots, fotos, especificações técnicas, etc. (1,0 pontos)
-- [Plano de Teste com o Usuário (Usabilidade e Experiência)]() com descrição das tarefas e métricas (tempo, erros, escalas Likert, etc). (2,0 pontos)
+- [Plano de Teste com o Usuário (Usabilidade e Experiência)](https://github.com/Equipe4-Esmeralda/transfer_care/blob/main/Plano%20de%20Teste.md) com descrição das tarefas e métricas (tempo, erros, escalas Likert, etc). (2,0 pontos)
 
 ### Video
 - [Link]()
