@@ -22,4 +22,5 @@ Para a realização deste trabalho, você deverá propor: um website ou um aplic
 - [Plano de Teste com o Usuário (Usabilidade e Experiência)](https://github.com/Equipe4-Esmeralda/transfer_care/blob/main/Plano%20de%20Teste.md) com descrição das tarefas e métricas (tempo, erros, escalas Likert, etc). (2,0 pontos)
 
 ### Video
-- [Link]()
+- [Parte 1](https://drive.google.com/file/d/1I2V7EcaAyJ45-2bFDJh8FvEiVlc-mhkg/view)
+- [Parte 2](https://drive.google.com/file/d/1CdJGBzAacGVPDv9Jl3WmP3XY6z3Syc86/view)
