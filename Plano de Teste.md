@@ -14,3 +14,5 @@ O objetivo principal de um teste de usabilidade de aplicativo é avaliar a facil
  - https://docs.google.com/forms/d/e/1FAIpQLSe9qlL0y4ov6or3TSr5A5rhRLCWvphJFlnQnhfHXM-dMLnCmQ/viewform
 
  - [Tabela de Resultados](https://docs.google.com/spreadsheets/u/0/d/1lHOOi3PWwzw86BUqecXEyGNz6dJ1Ve9QnBiKXJ3HcqQ/edit?usp=sharing&pli=1)
+
+ - [Resultados Maze](https://app.maze.co/report/Teste-de-prottipo/ap71watlykvo0n9/intro)
